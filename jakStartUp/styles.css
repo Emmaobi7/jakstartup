@@ -1,0 +1,21 @@
+body {
+  background-color: #818FB4;
+  font: sans-serif;
+}
+
+#title {
+  background-color: #435585;
+}
+
+#contact {
+  background-color: #83A2FF;
+}
+
+#review {
+  background-color: #83A2FF;
+}
+
+
+button {
+  background-color: #F5E8C7;
+}
