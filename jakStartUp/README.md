@@ -7,7 +7,7 @@
 * singular naming convention for the id's corresponding to the section comment
 * DIV containers for all elemnts in a section
 * added multiple photos for options.
-* color pallet was taken from [https://colorhunt.co/].visit for other options.
+* color pallet was taken from [https://colorhunt.co/] visit for other options.
 * sans-seriff for all fonts (this will ebe changed)
 * NB: disregard the style, no styling was done here. wink*****
 
